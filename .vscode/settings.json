@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"cSpell.language": "en,es-ES",
+	"cSpell.words": [
+		"Cuauhtémoc"
+	]
+}
