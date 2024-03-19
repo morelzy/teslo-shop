@@ -10,7 +10,7 @@
     "lint": "next lint",
     "postinstall": "prisma generate",
     "format": "prettier --write .",
-    "seed": "ts-node src/seed/seed-database.ts"
+    "seed": "ts-node ./src/seed/seed-database.ts"
   },
   "dependencies": {
     "@paypal/paypal-js": "8.0.2",
