@@ -8,6 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "postinstall": "prisma generate",
     "format": "prettier --write .",
     "seed": "ts-node src/seed/seed-database.ts"
   },
